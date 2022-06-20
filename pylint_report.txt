@@ -1,0 +1,21 @@
+************* Module main
+main.py:90:0: C0304: Final newline missing (missing-final-newline)
+main.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+main.py:5:0: C0103: Function name "CheckTriWinding" doesn't conform to snake_case naming style (invalid-name)
+main.py:5:0: C0103: Argument name "allowReversed" doesn't conform to snake_case naming style (invalid-name)
+main.py:5:0: C0116: Missing function or method docstring (missing-function-docstring)
+main.py:8:4: C0103: Variable name "detTri" doesn't conform to snake_case naming style (invalid-name)
+main.py:11:12: C0103: Variable name "a" doesn't conform to snake_case naming style (invalid-name)
+main.py:19:0: C0103: Function name "TriTri2D" doesn't conform to snake_case naming style (invalid-name)
+main.py:19:0: C0103: Argument name "t1" doesn't conform to snake_case naming style (invalid-name)
+main.py:19:0: C0103: Argument name "t2" doesn't conform to snake_case naming style (invalid-name)
+main.py:19:0: C0103: Argument name "allowReversed" doesn't conform to snake_case naming style (invalid-name)
+main.py:19:0: C0103: Argument name "onBoundary" doesn't conform to snake_case naming style (invalid-name)
+main.py:19:0: C0116: Missing function or method docstring (missing-function-docstring)
+main.py:19:13: W0621: Redefining name 't1' from outer scope (line 58) (redefined-outer-name)
+main.py:19:17: W0621: Redefining name 't2' from outer scope (line 59) (redefined-outer-name)
+main.py:26:8: C0103: Variable name "chkEdge" doesn't conform to snake_case naming style (invalid-name)
+main.py:29:8: C0103: Variable name "chkEdge" doesn't conform to snake_case naming style (invalid-name)
+
+-----------------------------------
+Your code has been rated at 6.79/10
